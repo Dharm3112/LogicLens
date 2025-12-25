@@ -1,7 +1,6 @@
 ih dfh
 
 
-
 # 🧠 LogicLens: AI-Powered Code Assistant
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)

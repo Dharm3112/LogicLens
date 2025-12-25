@@ -1,13 +1,16 @@
 # src/model_loader.py
+import streamlit as st  # <--- THIS WAS MISSING
 from transformers import RobertaTokenizer, T5ForConditionalGeneration
 import torch
 
 
-@st.cache_resource  # This is a Streamlit magic command to cache the model so it doesn't reload every time
+@st.cache_resource  # This works now because 'st' is imported
 def load_model():
     model_name = "Salesforce/codet5-base-multi-sum"
 
+    # Using st.write or print here might clutter the UI, so we just log to console
     print("Downloading Model... this might take a minute...")
+
     tokenizer = RobertaTokenizer.from_pretrained(model_name)
     model = T5ForConditionalGeneration.from_pretrained(model_name)
 

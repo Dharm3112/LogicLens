@@ -6,6 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 > *An intelligent tool that reads code and explains it in plain English using State-of-the-Art NLP models.*
+
 ---
 
 ## 📖 Table of Contents

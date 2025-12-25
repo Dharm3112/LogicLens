@@ -5,7 +5,7 @@
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=for-the-badge&logo=huggingface)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-> **BTech 3rd Year Computer Science Engineering Project** > *An intelligent tool that reads code and explains it in plain English using State-of-the-Art NLP models.*
+> *An intelligent tool that reads code and explains it in plain English using State-of-the-Art NLP models.*
 
 ---
 

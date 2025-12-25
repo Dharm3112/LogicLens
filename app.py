@@ -9,7 +9,7 @@ st.set_page_config(page_title="LogicLens", page_icon="🧠", layout="wide")
 # --- Header ---
 st.title("🧠 LogicLens: AI Code Explainer")
 st.markdown("""
-    **BTech 3rd Year Project** | Powered by *Salesforce CodeT5* & *Hugging Face Transformers*
+     Powered by *Salesforce CodeT5* & *Hugging Face Transformers*
 
     Paste a Python function below, and the AI will:
     1. 📝 **Explain** what the code does in plain English.

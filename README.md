@@ -153,21 +153,3 @@ Contributions are welcome!
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-**Developed with ❤️ by [Your Name]**
-
-```
-
----
-
-### 💡 Tips for your Viva / Presentation
-
-Since you asked for "and many more," here is how to present the **Future Enhancements** part effectively during your exam. This is what sets a 3rd-year student apart from a beginner:
-
-1.  **Mention Deployment:** Tell the examiner, *"Currently, this runs locally, but my future plan is to containerize this using **Docker** and deploy it on **AWS EC2** or **Hugging Face Spaces** for global access."*
-2.  **Mention Fine-Tuning:** Say, *"Right now I am using a pre-trained model. In the future, I plan to **fine-tune** this model specifically on our college's codebase so it understands our specific coding style."*
-3.  **Mention Security:** *"I also plan to add a security layer that scans for hardcoded API keys or passwords in the code before processing it."*
-
-This README + the Future roadmap makes your project look like a serious software product, not just a homework assignment.
-
-```

@@ -150,4 +150,4 @@ Contributions are welcome!
 
 ## 📜 License
 
-Distributed under the MIT License. See [LICENSE] for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Dharm3112/LogicLens/blob/main/LICENSE) for more information.

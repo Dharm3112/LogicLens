@@ -1,4 +1,4 @@
-erg
+er
 
 # 🧠 LogicLens: AI-Powered Code Assistant
 

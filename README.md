@@ -151,3 +151,9 @@ Contributions are welcome!
 ## 📜 License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/Dharm3112/LogicLens/blob/main/LICENSE) for more information.
+
+---
+
+<p align="center">
+  <b>LogicLens</b> • Created by <a href="https://github.com/Dharm3112"><b>Dharm Patel</b></a>
+</p>
